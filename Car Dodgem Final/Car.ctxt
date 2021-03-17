@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\ \r\n\ @author\ Soham\ Basu\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Car()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Car\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ wrap()
+comment2.text=\r\n\ Car\ reswpawns\ on\ opposite\ end\ of\ the\ world\ if\ it\ reaches\ the\ edge\ of\ the\ world\r\n
+comment3.params=speedChange
+comment3.target=void\ accelerate(double)
+comment3.text=\r\n\ Car\ accelerates\ or\ decelerates\ based\ on\ user\ input\r\n
+comment4.params=speed
+comment4.target=void\ setSpeed(double)
+comment4.text=\r\n\ Sets\ the\ speed\ of\ the\ car\r\n
+comment5.params=maxSpeed
+comment5.target=void\ setMaxSpeed(double)
+comment5.text=\r\n\ Sets\ the\ max\ speed\ of\ the\ car\r\n
+comment6.params=
+comment6.target=double\ getSpeed()
+comment6.text=\r\n\ Gets\ the\ speed\ of\ the\ car\r\n
+comment7.params=
+comment7.target=double\ getMaxSpeed()
+comment7.text=\r\n\ Gets\ the\ max\ speed\ of\ the\ car\r\n
+numComments=8
